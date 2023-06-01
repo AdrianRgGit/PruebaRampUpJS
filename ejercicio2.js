@@ -4,8 +4,7 @@ let nUsuario50 = parseInt(nUsuario) + 50;
 // console.log(nUsuario);
 // console.log(nUsuario50);
 
-for (let i = 0; i <= nUsuario50; i++) {
-  nUsuario = input.getAttribute("value");
+for (let i = nUsuario; i <= nUsuario50; i++) {
   if (i % 2 != 0) {
     console.log(i);
   }
