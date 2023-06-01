@@ -13,3 +13,5 @@ for (let i = nUsuario; i <= nUsuario50; i++) {
     console.log(i);
   }
 }
+
+// No consigo que al variar el valor del input que he puesto en la web, me cambie el value.

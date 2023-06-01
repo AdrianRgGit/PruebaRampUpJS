@@ -14,6 +14,7 @@ function contarLetras(letra) {
 }
 
 contarLetras("a")
+
 // console.log(`La función me retorna ${totalLetras}`)
 
 /*
